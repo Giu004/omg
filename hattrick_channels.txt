@@ -1,1 +1,0 @@
-primehd: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https%3A//otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/irppw2i8ab/out/v1/80325759cd8b4008b6fbc6dc14751edc/cenc.mpd&key_id=1dccbfd6f5618335b52099f55f035f92&key=674e443e50558f7e705f1bd702987ea3
