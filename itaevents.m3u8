@@ -1,4 +1,43 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="500 Sprint car Tour - 500 Sprint car Tour" tvg-name="20:00 500 Sprint car Tour - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=204
+
+#EXTINF:-1 tvg-id="Eastern States Weekend Night 2 - Eastern States Weekend Night 2" tvg-name="20:00 Eastern States Weekend Night 2 - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=216
+
+#EXTINF:-1 tvg-id="2025 Fall Clash/Keystone Cup at Bedford Fairgrounds Speedway - 2025 Fall Clash/Keystone Cup at Bedford Fairgrounds Speedway" tvg-name="00:00 2025 Fall Clash/Keystone Cup at Bedford Fairgrounds Speedway - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=184
+
+#EXTINF:-1 tvg-id="Volusia Speedway Sprint Cars - Volusia Speedway Sprint Cars" tvg-name="00:00 Volusia Speedway Sprint Cars - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=185
+
+#EXTINF:-1 tvg-id="Real American Freestyle - Real American Freestyle" tvg-name="01:00 Real American Freestyle - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=186
+
+#EXTINF:-1 tvg-id="MMA Pro League 7 - MMA Pro League 7" tvg-name="01:00 MMA Pro League 7 - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller TV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=187
+
+#EXTINF:-1 tvg-id="2025 USAC Western World Championships at Central Arizona Raceway - 2025 USAC Western World Championships at Central Arizona Raceway" tvg-name="01:40 2025 USAC Western World Championships at Central Arizona Raceway - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=188
+
+#EXTINF:-1 tvg-id="Battleground Championship Wrestling - Season of the Witch 2025" tvg-name="02:00 Battleground Championship Wrestling: Season of the Witch 2025 - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller TV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=189
+
+#EXTINF:-1 tvg-id="Armored MMA 2025 - Medieval Cage Fighting Championship" tvg-name="02:00 Armored MMA 2025: Medieval Cage Fighting Championship - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller TV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=190
+
+#EXTINF:-1 tvg-id="Verzuz Cheat Sheet - Cash Money x No Limit" tvg-name="02:00 Verzuz Cheat Sheet: Cash Money x No Limit - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Apple Tv
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=191
+
+#EXTINF:-1 tvg-id="2025 CARS Tour West at Kevin Harvick's Kern Raceway - 2025 CARS Tour West at Kevin Harvick's Kern Raceway" tvg-name="02:45 2025 CARS Tour West at Kevin Harvick's Kern Raceway - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=192
+
+#EXTINF:-1 tvg-id="2025 EnduroCross Rounds 2 and 3 at Idaho Falls - 2025 EnduroCross Rounds 2 and 3 at Idaho Falls" tvg-name="03:00 2025 EnduroCross Rounds 2 and 3 at Idaho Falls - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=193
+
+#EXTINF:-1 tvg-id="2025 NARC 410 Sprints at Bakersfield Speedway at Kern Raceway - 2025 NARC 410 Sprints at Bakersfield Speedway at Kern Raceway" tvg-name="03:30 2025 NARC 410 Sprints at Bakersfield Speedway at Kern Raceway - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=194
+
 #EXTINF:-1 tvg-id="England - Championship - Portsmouth vs Stoke City" tvg-name="13:30 England - Championship : Portsmouth vs Stoke City - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/League One/League Two", Sky Sports+
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=152
 
