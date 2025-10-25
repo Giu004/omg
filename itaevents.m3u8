@@ -1964,6 +1964,24 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 #EXTINF:-1 tvg-id="United States - USL Championship - Sacramento Republic vs Miami FC" tvg-name="05:00 United States - USL Championship : Sacramento Republic vs Miami FC - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", CBS Sports Golazo
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=910
 
+#EXTINF:-1 tvg-id="ATP - VIENNA - Heliovaara H./Patten H. vs Cash J./Glasspool L." tvg-name="14:00 ATP - VIENNA : Heliovaara H./Patten H. vs Cash J./Glasspool L. - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Vienna", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - VIENNA - Sinner J. vs De Minaur A." tvg-name="15:00 ATP - VIENNA : Sinner J. vs De Minaur A. - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Vienna", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - VIENNA - Musetti L. vs Zverev A." tvg-name="16:30 ATP - VIENNA : Musetti L. vs Zverev A. - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Vienna", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - BASEL - Fonseca J. vs Munar J." tvg-name="15:00 ATP - BASEL : Fonseca J. vs Munar J. - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Basel", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1510
+
+#EXTINF:-1 tvg-id="ATP - BASEL - Humbert U. vs Davidovich Fokina A." tvg-name="17:00 ATP - BASEL : Humbert U. vs Davidovich Fokina A. - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Basel", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - BASEL - Granollers M./Zeballos H. vs Nouza P./Rikl P." tvg-name="18:30 ATP - BASEL : Granollers M./Zeballos H. vs Nouza P./Rikl P. - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Basel", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
 #EXTINF:-1 tvg-id="Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals - Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals" tvg-name="11:30 Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals - 25/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=40
 
